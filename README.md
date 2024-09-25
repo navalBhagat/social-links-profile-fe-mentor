@@ -8,8 +8,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
@@ -22,19 +20,13 @@ Users should be able to:
 
 ### Screenshot
 
+![](.public/assets/images/social-links-profile-screenshot.png)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- Flexbox
-- [Angulare v18](https://angular.dev/)
+- Solution URL: [Github](https://github.com/navalBhagat/social-links-profile-fe-mentor)
+- Live Site URL: [Vercel](https://social-links-profile-fe-mentor.vercel.app/)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@navalBhagat](https://www.frontendmentor.io/profile/navalBhagat)
