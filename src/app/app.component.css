@@ -1,0 +1,14 @@
+.profile-box {
+  background-color: hsl(0, 0%, 12%);
+  height: 30rem;
+  width: 20rem;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 450px) {
+  .profile-box {
+    width: 18rem;
+  }
+}

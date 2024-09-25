@@ -1,0 +1,27 @@
+.profile-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: small;
+}
+
+.name {
+  font-size: large;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.location {
+  color: hsl(75, 94%, 57%);
+  margin-bottom: 1.5rem;
+  font-weight: bold;
+  font-size: x-small;
+}
+
+.bio {
+  font-size: smaller;
+  font-weight: lighter;
+  margin-bottom: 0.5rem;
+}
