@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](.public/assets/images/social-links-profile-screenshot.png)
+![](./public/assets/images/social-links-profile-screenshot.png)
 
 ### Links
 
